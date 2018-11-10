@@ -3,3 +3,4 @@
 //span[contains(@class, "bounty")]
 //a[contains(@href, "checkout")]
 //ul[contains(@id, "social-list")]
+Dodat novi red iz GitKrakena
