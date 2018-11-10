@@ -1,2 +1,5 @@
+
 //div[@id="hireme"]
 //span[contains(@class, "bounty")]
+//a[contains(@href, "checkout")]
+//ul[contains(@id, "social-list")]
